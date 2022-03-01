@@ -1,1 +1,1 @@
-Git project 0x03-git
+Staying up to date
